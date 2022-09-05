@@ -1,2 +1,2 @@
 # Drinkster
-Mobile App Development
+Final assignment for the course Mobile App Development. 
