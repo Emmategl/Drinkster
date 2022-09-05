@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C0C0C0"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="272dp"
+        android:layout_height="212dp"
+        android:layout_gravity="center"
+
+        android:src="@drawable/drinkster_logo" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:text="About Drinksters"
+        android:fontFamily="monospace"
+        android:textSize="25dp"
+        android:textColor="@color/black"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:paddingTop="2sp"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@color/white">
+
+
+            <Button
+                android:id="@+id/GeneralInformation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="General"
+                android:textColor="@color/red"
+                android:backgroundTint="@color/white"
+                android:textSize="11dp"/>
+            <Button
+                android:id="@+id/MainPageInformation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Main page"
+                android:textColor="@color/black"
+                android:backgroundTint="@color/white"
+                android:textSize="11dp"/>
+            <Button
+                android:id="@+id/DrinkPageInformation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Drink Page"
+                android:textColor="@color/black"
+                android:backgroundTint="@color/white"
+                android:textSize="11dp"/>
+
+            <Button
+                android:id="@+id/ManageDatabase"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="Manage DB"
+                android:textColor="@color/black"
+                android:textSize="11dp" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/information_text_information_page"
+            android:layout_width="350dp"
+            android:layout_height="226dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="30dp"
+            android:textColor="@color/black"
+            android:text="Drinksters is app where you have the possibility to look up different drinks in our database and get more information about the drink and its ingredients. The app contains three pages with different functions. Click on the different page headers above to learn more about the different pages!"
+            android:textSize="20sp"
+
+            android:textStyle="italic" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

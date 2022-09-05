@@ -1,0 +1,116 @@
+[
+  {
+  "drink": "Dark and Stormy",
+  "ingredients": "4 cl rum, 2 cl sugar cane sirup, 2 cl lime juice, 2 dashes of angostura bitters, Top of with ginger beer, garnish: lime wheel",
+  "URL": "https://en.wikipedia.org/wiki/Dark_%27n%27_Stormy",
+  "Information": "Fill a tall glass with ice cubes. Add rum and 2 dashes of angostura bitters. Pour in ginger beer, lime juice and sugar cane sirup. Stir with a barspoon. Garnish with a lime wedge. Enjoy. "
+  },
+  {
+    "drink": "Spritz Veneziano",
+    "ingredients": "9 cl Prosecco,6 cl Aperol,splash of soda water",
+    "URL": "https://en.wikipedia.org/wiki/Spritz_Veneziano",
+    "Information": "Aperol Spritz is served in a glass full of ice. The drink combines 3 parts Prosecco followed by 2 parts Aperol, topped with a dash of soda water and garnished with a slice of orange."
+  },
+  {
+    "drink": "Rum and Coke",
+    "ingredients": "5 cl white rum,1 cl limejuice,12 cl cola, icecubes",
+    "URL": "https://en.wikipedia.org/wiki/Rum_and_Coke",
+    "Information": "Traditionally, the cola ingredient is Coca-Cola and the alcohol is a light rum such as Bacardi. However, the drink may be made with various types of rums and cola brands, and lime juice may or may not be included."
+  },
+  {
+    "drink": "Daiquiri",
+    "ingredients": "6 cl white rum,2 cl limejuice,2 bar spoons superfine sugar",
+    "URL": "https://en.wikipedia.org/wiki/Daiquiri",
+    "Information": "Add the rum, lime juice and demerara sugar syrup to a shaker with ice, and shake until well-chilled. Strain into a chilled coupe. Garnish with a lime twist."
+  },
+  {
+    "drink": "Margarita",
+    "ingredients": "5 cl tequila, 2 cl triple sec, 1.5 cl lime juice",
+    "URL": "https://en.wikipedia.org/wiki/Margarita",
+    "Information": "A margarita is a cocktail consisting of tequila, orange liqueur, and lime juice often served with salt on the rim of the glass. The drink is served shaken with ice (on the rocks), blended with ice (frozen margarita), or without ice (straight up)."
+  },
+  {
+    "drink": "Piña Colada",
+    "ingredients": "1 part white rum,1 part coconut cream,3 parts fresh pineapple juice",
+    "URL": "https://en.wikipedia.org/wiki/Pi%C3%B1a_colada",
+    "Information": "Pour the ingredients into a blender or shaker with crushed ice, blend or shake very well until smooth, then pour into chilled glass and garnish with pineapple wedge and/or a maraschino cherry."
+  },
+  {
+    "drink": "Espresso Martini",
+    "ingredients": "5 cl vodka,3 cl Kahlúa,1 cl sugar syrup, 1 strong espresso",
+    "URL": "https://en.wikipedia.org/wiki/Espresso_martini",
+    "Information": "The ingredients are poured into a shaker filled with ice. The mixture is then shaken, fine strained and poured into a chilled martini glass. The drink is garnished with coffee beans (and perhaps a twist of lemon zest) and served."
+  },
+  {
+    "drink": "Cosmopolitan",
+    "ingredients": "4 cl vodka lemon,1.5 cl Cointreau,1.5 fresh lime juice,3 cl cranberry juice",
+    "URL": "https://en.wikipedia.org/wiki/Cosmopolitan_(cocktail)",
+    "Information": "The cosmopolitan is usually served in a large cocktail glass, also called a martini glass. For this reason, the drink is sometimes mistakenly categorized as a type of martini. A lemon twist is sometimes used to garnish."
+  },
+  {
+    "drink": "Tequila Sunrise",
+    "ingredients": "4.5 cl tequila,9 cl orange juice,1.5 cl grenaide syrup",
+    "URL": "https://en.wikipedia.org/wiki/Tequila_sunrise_(cocktail)",
+    "Information": "The drink is mixed by pouring in Tequila, ice, then the juice and, lastly, syrup. The signature look of the drink depends on adding the syrup without mixing with the other ingredients. A spoon may be used to guide the syrup down the glass wall to the bottom of the glass with minimal mixing."
+  },
+  {
+    "drink": "Mojito",
+    "ingredients": "4 cl white rum,4 cl fresh lime juice,5 sprigs of mint, 2 teaspoons of sugar",
+    "URL": "https://en.wikipedia.org/wiki/White_Russian_(cocktail)",
+    "Information": "When preparing a mojito, fresh lime juice is added to sugar (or to simple syrup) and mint leaves. The mixture is then gently mashed with a muddler. The mint leaves should only be bruised to release the essential oils and should not be shredded.Then rum is added and the mixture is briefly stirred to dissolve the sugar and to lift the mint leaves up from the bottom for better presentation."
+  },
+  {
+    "drink": "White Russian",
+    "ingredients": "5 cl vodka,2 cl coffee liqueur,3 cl fresh cream",
+    "URL": "https://en.wikipedia.org/wiki/Mojito",
+    "Information": "Add the vodka and coffee liqueur to a rocks glass filled with ice. Top with the heavy cream and stir. Shaking the cream in order to thicken it prior to pouring it over the drink is also common. "
+  },
+  {
+    "drink": "Irish Coffee",
+    "ingredients": "4 cl irish whiskey,8cl hot coffee,3 cl fresh cream,1 tsp brown sugar",
+    "URL": "https://en.wikipedia.org/wiki/Irish_coffee",
+    "Information": "Irish whiskey and at least one level teaspoon of sugar are poured over black coffee and stirred in until fully dissolved. Thick cream is carefully poured over the back of a spoon initially held just above the surface of the coffee and gradually raised a little until the entire layer is floated."
+  },
+  {
+    "drink": "Long Island Iced Tea",
+    "ingredients": "1.5 cl Tequila,1.5 cl Vodka,1.5 cl White rum,1.5 cl Triple sec,1.5 cl Gin,2.5 cl Lemon juice,3.0 cl simple syrup, top with Cola",
+    "URL": "https://en.wikipedia.org/wiki/Long_Island_iced_tea",
+    "Information": "A popular version mixes equal parts vodka, tequila, gin, rum, triple sec, with 1+1⁄2 parts sour mix and a splash of cola. Lastly, it is decorated with the lemon and straw, after stirring with bar spoon smoothly."
+  },
+  {
+    "drink": "Whiskey Sour",
+    "ingredients": "4.5 cl bourbon whiskey,3 cl fresh lemon juice,1.5 simple syrup, 1/2 ounce egg white",
+    "URL": "https://en.wikipedia.org/wiki/Whiskey_sour",
+    "Information": "Add bourbon, lemon juice, simple syrup and egg white, if using, to a shaker and dry-shake for 30 seconds without ice. Add ice and shake again until well-chilled. Strain into a coupe glass."
+  },
+  {
+    "drink": "Tom Collins",
+    "ingredients": "4.5 cl old tom gin,3 cl fresh lemon juice,1.5 sugar syrup,6 cl club soda",
+    "URL": "https://en.wikipedia.org/wiki/Tom_Collins",
+    "Information": "Add the gin, lemon juice and simple syrup to a Collins glass. Fill with ice, top with club soda and stir. Garnish with a lemon wheel and maraschino cherry (optional)."
+  },
+  {
+    "drink": "Pisco Sour",
+    "ingredients": "60ml Pisco,30 ml lemon juice,20 ml simple syrup,1 egg white, several drops of aromatic bitters",
+    "URL": "https://en.wikipedia.org/wiki/Pisco_sour",
+    "Information": "Add pisco, lime juice, simple syrup and egg white into a shaker and dry-shake (without ice) vigorously. Add ice and shake again until well-chilled. Strain into a chilled Nick & Nora glass. Garnish with 3 to 5 drops of Angostura bitters."
+  },
+  {
+    "drink": "Old Fashioned",
+    "ingredients": "4.5 cl Bourbon,several drops of aromatic bitters,1 teaspoon water,1/2 teaspoon sugar,orange slice",
+    "URL": "https://en.wikipedia.org/wiki/Old_fashioned_(cocktail)#History",
+    "Information": "Add the sugar and bitters to a rocks glass, then add water, and stir until sugar is nearly dissolved. Fill the glass with large ice cubes, add the bourbon, and gently stir to combine. Garnish: orange slice"
+  },
+  {
+    "drink": "Hurricane ",
+    "ingredients": "one part dark rum,one part white rum,half part over proofed rum,passion fruit syrup,lemon juice",
+    "URL": "https://en.wikipedia.org/wiki/Hurricane_(cocktail)",
+    "Information": "Add the light and dark rums, lemon juices and passion fruit sirup into a shaker with ice and shake until well-chilled. Strain into a large Hurricane glass over fresh ice."
+  },
+  {
+    "drink": "Mai Tai",
+    "ingredients": "3 cl amber jamaican rum,3 cl martinique molasses rum,1.5 cl orange curaçao,1.5 orgeat syrup,3 cl fresh lime juice,0.75 cl simple syrup",
+    "URL": "https://en.wikipedia.org/wiki/Mai_Tai",
+    "Information": "Add the jamaican rum, curaçao, lime juice and orgeat into a shaker with crushed ice and shake lightly (about 3 seconds). Pour into a double rocks glass. Float the martinique molasses rum over the top."
+  }
+]

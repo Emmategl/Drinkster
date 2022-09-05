@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Drinksters</string>
+    <string name="which_URL">Which URL?</string>
+    <string name="what_are_you_throwing_away">What are you throwing away??</string>
+    <string name="e_g_Name">E.g piña colada</string>
+    <string name="e_g_URL">E.g. en.wikipedia.org</string>
+    <string name="add_new_drink">Add new drink</string>
+    <string name="list_current_know_garbage">List current know drinks</string>
+    <string name="which_ingredients">Which ingredients?</string>
+    <string name="e_g_ingredients">E.g. 3 cl white rum, 3 cl coconut cream </string>
+    <string name="which_information">Add a description to the drink</string>
+    <string name="e_g_information">E.g. Piña colada means "strained pineapple</string>
+
+</resources>

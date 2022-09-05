@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Darkred"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/headerPart2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:shadowColor="@color/black"
+        android:shadowDx="15"
+        android:shadowDy="15"
+        android:shadowRadius="10"
+        android:text="Welcome to"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="35dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="272dp"
+        android:layout_height="212dp"
+        android:layout_gravity="center"
+
+        android:src="@drawable/drinkster_logo" />
+<LinearLayout
+    android:id="@+id/testboxHolder"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/radius"
+    android:layout_gravity="center">
+    <TextView
+        android:id="@+id/items"
+        android:layout_width="match_parent"
+        android:layout_height="84dp"
+        android:maxWidth="250dp"
+        android:text="It's looks like something went wrong with your query. Or perhaps Drinkster is not familiar with that drink yet... Try again perhaps 'Mojito'  "
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/red"
+        />
+</LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5sp"
+        android:orientation="horizontal"
+        android:background="@color/Darkred">
+        <EditText
+            android:id="@+id/textInput"
+            android:layout_width="254dp"
+            android:layout_height="36dp"
+            android:layout_gravity="center"
+            android:background="@drawable/radius"
+            android:hint="Search for a drink here"
+            android:textAlignment="center"
+            android:inputType="text"/>
+        <Button
+            android:id="@+id/list_button"
+            android:layout_width="78dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:backgroundTint="#806E6E"
+            android:clickable="true"
+            android:textAlignment="center"
+            app:cornerRadius="@android:dimen/app_icon_size"
+            app:icon="?android:attr/actionModeWebSearchDrawable"
+            app:strokeColor="#E1D0D0" />
+    </LinearLayout>
+
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="10dp"
+    android:layout_gravity="center"
+    android:background="@color/Darkred">
+
+    <Button
+        android:id="@+id/go_to_managedb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Manage Database"
+        android:backgroundTint="@color/black"
+        app:cornerRadius="@android:dimen/app_icon_size"
+        android:layout_marginRight="2sp"/>
+    <Button
+        android:id="@+id/list_All_items"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="List all drinks"
+        android:backgroundTint="@color/black"
+        app:cornerRadius="@android:dimen/app_icon_size"
+        android:layout_marginLeft="2sp"/>
+
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:background="@color/Darkred">>
+
+        <ImageButton
+            android:id="@+id/informationButton"
+            android:layout_width="43dp"
+            android:layout_height="39dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="15dp"
+            android:background="@color/Darkred"
+            android:clickable="true"
+            app:srcCompat="@android:drawable/ic_dialog_info" />
+    </LinearLayout>
+
+
+</LinearLayout>
